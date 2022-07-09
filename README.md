@@ -1,4 +1,4 @@
-# CryptoTradingArbitrageBot
+# CryptoTradingBot-public version
 
 ![image](https://user-images.githubusercontent.com/106173671/178046697-49c25ca4-c34c-437b-8230-d8a425457993.png)
 
